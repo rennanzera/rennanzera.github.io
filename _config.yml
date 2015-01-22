@@ -3,15 +3,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:		  ./Rennan            
+tagline:          Dotfiles
+url:              http://rennanzera.github.io
+paginate:         2
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Rennan Leite
+  url:            https://twitter.com/rennanzera
+  email:          rennanalfa@gmail.com
 
 # Custom vars
 version:          1.0.0
