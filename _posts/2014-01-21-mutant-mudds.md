@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GAMES Mutant Mudds me mostrou como perfeccionismo pode ser Divertido"
+title: "[games] Mutant Mudds me mostrou como perfeccionismo pode ser Divertido"
 tags: [games]
 ---
 
@@ -8,11 +8,11 @@ Desde que adquiri um Nintendo 3DS, mal pude esperar para o principal advento que
 
 Desde o grande boom dos indie games na Xbox Live Arcade, me sinto cada vez mais atraído por jogos simples, feitos por uma pequena equipe, e que carregam uma monção de experiências que apenas esse grupo poderia passar. Com a afobação de encontrar um título que me apaixonasse, acabei chegando ao tal do Mutant Muds.
 
-O jogo conta a história do pequeno garoto Max brincando com seu portátil, na companhia de sua avó. Na pequena cutscene, vemos que um meteoro cai na terra, e com ele uma invasão de alienígenas de lama. Começa então a primeira fase do jogo na qual Max, munido de sua pistola d'água e seu jet-pack, vai se aventurar em busca da destruição dos monstrinhos.
+O jogo começa com o pequeno garoto Max brincando com seu portátil, na companhia de sua avó. Na pequena cutscene, vemos que um meteoro cai na terra, e com ele uma invasão de alienígenas de lama. Começa então a primeira fase do jogo na qual Max, munido de sua pistola d'água e seu jet-pack, vai se aventurar em busca da destruição dos monstrinhos.
 
 O jogo então, dá o seu primeiro grande golpe, fazendo questão de tragar o jogador com a trilha sonora a seguir:
 
-<div class=video> <iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0"> </iframe> </div>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0"> </iframe>
 
 Quem está com o jogo nas mãos já percebe: o que está por vir é uma experiência nostálgica, promissora em resgatar os melhores momentos de quem viveu a infância na época dos 8/16-bits.
 
