@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:		  ./Rennan            
-tagline:          Dotfiles
+title:		  	  ./rennan            
+tagline:          dotfiles
 url:              http://rennanzera.github.io
 paginate:         2
 baseurl:          /
