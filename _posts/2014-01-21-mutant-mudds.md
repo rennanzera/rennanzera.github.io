@@ -12,7 +12,7 @@ O jogo começa com o pequeno garoto Max brincando com seu portátil, na companhi
 
 O jogo então, dá o seu primeiro grande golpe, fazendo questão de tragar o jogador com a trilha sonora a seguir:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0"> </iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0" ></iframe>
 
 Quem está com o jogo nas mãos já percebe: o que está por vir é uma experiência nostálgica, promissora em resgatar os melhores momentos de quem viveu a infância na época dos 8/16-bits.
 
