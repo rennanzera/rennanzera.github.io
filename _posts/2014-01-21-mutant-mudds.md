@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [GAMES] Mutant Mudds me mostrou como perfeccionismo pode ser Divertido
+title: "GAMES Mutant Mudds me mostrou como perfeccionismo pode ser Divertido"
 tags: [games]
 ---
 
@@ -12,7 +12,7 @@ O jogo conta a história do pequeno garoto Max brincando com seu portátil, na c
 
 O jogo então, dá o seu primeiro grande golpe, fazendo questão de tragar o jogador com a trilha sonora a seguir:
 
-<div class=video> <iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0"></iframe> </div>
+<div class=video> <iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0"> </iframe> </div>
 
 Quem está com o jogo nas mãos já percebe: o que está por vir é uma experiência nostálgica, promissora em resgatar os melhores momentos de quem viveu a infância na época dos 8/16-bits.
 
