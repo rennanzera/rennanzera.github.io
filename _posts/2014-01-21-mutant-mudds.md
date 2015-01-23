@@ -10,13 +10,13 @@ Desde o grande boom dos indie games na Xbox Live Arcade, me sinto cada vez mais 
 
 O jogo começa com o pequeno garoto Max brincando com seu portátil, na companhia de sua avó. Na pequena cutscene, vemos que um meteoro cai na terra, e com ele uma invasão de alienígenas de lama. Começa então a primeira fase do jogo na qual Max, munido de sua pistola d'água e seu jet-pack, vai se aventurar em busca da destruição dos monstrinhos.
 
-O jogo então, dá o seu primeiro grande golpe, fazendo questão de tragar o jogador com a trilha sonora a seguir:
+Vem então o primeiro grande golpe, fazendo questão de arrebatar o jogador com a trilha sonora a seguir:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/2JtcdXkUtt0" frameborder="0" ></iframe>
 
 Quem está com o jogo nas mãos já percebe: o que está por vir é uma experiência nostálgica, promissora em resgatar os melhores momentos de quem viveu a infância na época dos 8/16-bits.
 
-Os primeiros níveis conseguem são simples, sem muita dificuldade. O Jogo oferece ao jogador a oportunidade de escolher a fase que ele deseja terminar, criando uma experiência longe de ser tortuosa.
+Os primeiros níveis conseguem ser simples, sem muita dificuldade. O Jogo oferece ao jogador a oportunidade de escolher a fase que ele deseja terminar, criando uma experiência longe de ser tortuosa.
 
 Entretanto, o jogador atento pode perceber a necessidade da perfeição em Mutant Mudds. Cada fase possui 100 cristais, que devem ser coletadas para que se consiga destravar uma arma melhor ou melhoria para o jet-pack, com o custo de múltiplos de 100 cristais. Não existem itens de cura para recarregar seus três únicos corações ao tomar algum dano, nem power up's que aumentem a quantidade desses corações. Em cada fase, o jogo te dá apenas três chances de cometer erros bobos. Erros grandes, como cair nos espinhos, possuem tolerância nula.
 
