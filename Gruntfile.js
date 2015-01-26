@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 
     uglify: {
       build: {
-        src: 'public/js/fluidvids.min.js',
+        src: 'public/js/fluidvids.js',
         dest: 'public/js/build/global.min.js'
       }
     }
