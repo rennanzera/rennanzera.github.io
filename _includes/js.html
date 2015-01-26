@@ -1,5 +1,12 @@
 <script type="text/javascript" src="{{ site.baseurl }}public/js/build/global.min.js"></script>
-<script>var fluidvids = require('fluidvids')();</script>
+<script>
+	
+    fluidvids.init({
+      selector: ['iframe'],
+      players: ['www.youtube.com', 'player.vimeo.com']
+    });
+    
+</script>
 <!-- Include analytics -->
 <script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
