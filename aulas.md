@@ -10,7 +10,6 @@ Ministro aulas de física e cálculo desde 2010, com foco em exercícios de prov
 
 Desde 2013 utilizo o Profes, e tenho um perfil recomendado nessa rede social de professores e alunos, atendendo em Campinas localmente, e em chamadas online à distância.
 
-Se você precisa de algum auxílio nas exatas, seja em nível fundamental, médio ou superior, me mande um e-mail em [rennanalfa@gmail.com](mailto:rennanalfa@gmail.com) =D com o assun
-to *Aulas*.
+Se você precisa de algum auxílio nas exatas, seja em nível fundamental, médio ou superior, me mande um e-mail em [rennanalfa@gmail.com](mailto:rennanalfa@gmail.com) =D com o assunto *Aulas*.
 
 []'s
