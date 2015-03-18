@@ -6,7 +6,7 @@ title: Aulas
 
 Olá, tudo bem?
 
-Ministro aulas de física e cálculo desde 2010, com foco em exercícios de provas e exames, além de aulas de programação em diversas linguagens. De todas as matérias que domino, a que mais me sobresaio é o Eletromagnetismo (Física 3).
+Meu nome é Rennan, e eu ministro aulas de física e cálculo desde 2010, com foco em exercícios de provas e exames, além de aulas de programação em diversas linguagens. De todas as matérias que domino, a que mais me sobresaio é o Eletromagnetismo (Física 3).
 
 Sou Estudante de Física e Engenharia Elétrica na Universidade Estadual de Campinas - Unicamp. Além de dar aulas, já prestei consultoria de ensino e método de estudos à professores da Fatec e de outras faculdades.
 
