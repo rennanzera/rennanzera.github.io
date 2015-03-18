@@ -8,7 +8,9 @@ Olá, tudo bem?
 
 Meu nome é Rennan, e eu ministro aulas de física e cálculo desde 2010, com foco em exercícios de provas e exames, além de aulas de programação em diversas linguagens. De todas as matérias que domino, a que mais me sobresaio é o Eletromagnetismo (Física 3).
 
-Sou Estudante de Física e Engenharia Elétrica na Universidade Estadual de Campinas - Unicamp. Além de dar aulas, já prestei consultoria de ensino e método de estudos à professores da Fatec e de outras faculdades.
+Sou Estudante de Física e Engenharia Elétrica na Universidade Estadual de Campinas - Unicamp. Além de dar aulas, já prestei consultoria de ensino e método de estudos à professores da Fatec e de outras faculdades. 
+
+Costumo trabalhar com uma revisão teórica da matéria, de uma maneira enxuta, aplicando o conhecimento de maneira prática em exercícios importantes, geralmente focando em resolução de provas e exames com o conteúdo chave da disciplina.
 
 Desde 2013 utilizo o Profes, e tenho um  [perfil](https://br.portalprofes.com/rennan) recomendado nessa rede social de professores e alunos, atendendo em Campinas localmente, e em chamadas online à distância.
 
